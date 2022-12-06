@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/nehal/static/css/main.073c9b0a.css",
-    "main.js": "/nehal/static/js/main.03334697.js",
+    "main.js": "/nehal/static/js/main.9b6fe105.js",
     "static/js/787.6c75f1ff.chunk.js": "/nehal/static/js/787.6c75f1ff.chunk.js",
     "index.html": "/nehal/index.html",
     "main.073c9b0a.css.map": "/nehal/static/css/main.073c9b0a.css.map",
-    "main.03334697.js.map": "/nehal/static/js/main.03334697.js.map",
+    "main.9b6fe105.js.map": "/nehal/static/js/main.9b6fe105.js.map",
     "787.6c75f1ff.chunk.js.map": "/nehal/static/js/787.6c75f1ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.03334697.js"
+    "static/js/main.9b6fe105.js"
   ]
 }
